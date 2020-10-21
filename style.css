@@ -1,0 +1,107 @@
+
+
+body {
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+    color:#333
+}
+
+body {
+    background-color:papayawhip;
+    padding: 20px;
+  }
+  h1 {
+    font-family:sail, sans-serif;
+    color: darkblue;
+
+  }
+
+
+  p {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, sans-serif;
+    color: midnightblue;
+  }
+
+  p {
+    margin: 50px;
+  }
+
+  p {
+    margin: 50px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: midnightblue;
+
+  }
+  li {float:left;
+  }
+
+  li a, .dropbtn {
+    display: inline-block;
+    color:midnightblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: midnightblue ;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color:darkblue;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  li {
+    display: inline;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: darkblue;
+  }
+
+  .active {
+    background-color: darkorange;
+  }
+  
+  img {
+    box-shadow:10px 10px violet ;
+}
